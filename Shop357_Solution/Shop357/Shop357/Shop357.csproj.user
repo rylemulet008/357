@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <Compile Update="UI\DashboardControl.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="UI\DeliveryControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UI\Dialogs.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UI\InventoryControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UI\LoginForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UI\MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UI\PurchasingControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UI\ReportsControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UI\RequisitionControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UI\SuppliersControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UI\UsersControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
